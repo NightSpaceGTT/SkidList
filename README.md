@@ -1,2 +1,1 @@
-# SkidList
-A map of skidder / scammer
+SOON...
